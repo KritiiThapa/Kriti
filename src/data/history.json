@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Machhapuchchhre Bank Limited",
+    "startDate": "August, 2025",
+    "endDate": "December, 2025",
+    "experiences": ["Built full-stack banking features.", "Developed REST APIs and interactive frontend components for seamless user experience"],
+    "imageSrc": "history/bank.png"
+  }
+]
