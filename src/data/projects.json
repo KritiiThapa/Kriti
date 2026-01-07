@@ -8,7 +8,7 @@
   },
   {
     "title": "Support System",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Project2.png",
     "description": "Built a React-based internal IT support platform using Supabase with chatbot-driven self-help and automated ticket routing to improve issue reporting and resolution efficiency.",
     "skills": ["React", "N8N", "Supabase","Chatbot"],
     "source": "https://github.com/KritiiThapa/support-system"
