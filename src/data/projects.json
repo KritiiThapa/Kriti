@@ -1,7 +1,7 @@
 [
   {
-    "title": "Track n Go",
-    "imageSrc": "projects/project.png",
+    "title": "TrackNGo",
+    "imageSrc": "projects/Project1.png",
     "description": "Developed a web-based real-time school bus tracking system using React, Express, and Strapi to enhance student safety and provide live bus and pickup point updates.",
     "skills": ["React", "Express", "Node", "Strapi", "Socket.io","Leaflet.js"],
     "source": "https://github.com/KritiiThapa/TrackNGo"
