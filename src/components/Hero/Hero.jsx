@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Kriti Thapa</h1>
         <p className={styles.description}>
-         I’m a QA analyst based in Kathmandu. I have experience in functional, regression and API testing, and I’m building my automation skills with Selenium and Pytest. I did my internship at Machhapuchchhre Bank and now work at Infinite Computer Solutions. What I enjoy most is finding the problems before users do, and I’m looking for a role where I can do that on software that matters.
+         I’m a QA analyst based in Kathmandu. I have experience in functional, regression and API testing, and I’m building my automation skills with Selenium and Pytest. 
         </p>
         <a href="mailto:kritithapa0122@gmail.com" className={styles.contactBtn}>
           Contact Me
